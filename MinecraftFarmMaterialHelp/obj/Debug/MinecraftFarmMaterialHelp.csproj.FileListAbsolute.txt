@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\MinecraftFarmMaterialHelp\bin\Debug\MinecraftFarmMaterialHelp.exe.config
+C:\Users\User\source\repos\MinecraftFarmMaterialHelp\bin\Debug\MinecraftFarmMaterialHelp.exe
+C:\Users\User\source\repos\MinecraftFarmMaterialHelp\bin\Debug\MinecraftFarmMaterialHelp.pdb
+C:\Users\User\source\repos\MinecraftFarmMaterialHelp\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\MinecraftFarmMaterialHelp\obj\Debug\App.g.cs
+C:\Users\User\source\repos\MinecraftFarmMaterialHelp\obj\Debug\MinecraftFarmMaterialHelp_MarkupCompile.cache
+C:\Users\User\source\repos\MinecraftFarmMaterialHelp\obj\Debug\MinecraftFarmMaterialHelp_MarkupCompile.lref
+C:\Users\User\source\repos\MinecraftFarmMaterialHelp\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\MinecraftFarmMaterialHelp\obj\Debug\MinecraftFarmMaterialHelp.g.resources
+C:\Users\User\source\repos\MinecraftFarmMaterialHelp\obj\Debug\MinecraftFarmMaterialHelp.Properties.Resources.resources
+C:\Users\User\source\repos\MinecraftFarmMaterialHelp\obj\Debug\MinecraftFarmMaterialHelp.csproj.GenerateResource.cache
+C:\Users\User\source\repos\MinecraftFarmMaterialHelp\obj\Debug\MinecraftFarmMaterialHelp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MinecraftFarmMaterialHelp\obj\Debug\MinecraftFarmMaterialHelp.exe
+C:\Users\User\source\repos\MinecraftFarmMaterialHelp\obj\Debug\MinecraftFarmMaterialHelp.pdb
+C:\Users\User\source\repos\MinecraftFarmMaterialHelp\obj\Debug\MinecraftFarmMaterialHelp.csproj.AssemblyReference.cache
